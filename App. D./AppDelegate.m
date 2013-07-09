@@ -15,4 +15,12 @@
     // Insert code here to initialize your application
 }
 
+- (IBAction)MenDespHosp:(id)sender {
+}
+
+- (IBAction)BotBusFec:(id)sender {
+}
+
+- (IBAction)SendOk:(id)sender {
+}
 @end

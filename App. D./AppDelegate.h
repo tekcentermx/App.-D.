@@ -12,4 +12,9 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+- (IBAction)MenDespHosp:(id)sender;
+
+@property (strong) IBOutlet NSOutlineView *MenPrin;
+- (IBAction)SendOk:(id)sender;
+
 @end
